@@ -38,4 +38,4 @@ Este projeto foi desenvolvido como um trabalho individual para a avaliação do 
 
 ## Créditos
 
-Desenvolvido por Kelson Luciano e Johana Novais.
+Desenvolvido por Kelson Luciano.
