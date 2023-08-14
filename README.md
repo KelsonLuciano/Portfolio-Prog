@@ -39,7 +39,3 @@ Este projeto foi desenvolvido como um trabalho individual para a avaliação do 
 ## Créditos
 
 Desenvolvido por Kelson Luciano e Johana Novais.
-
----
-
-**Nota:** Este é um modelo básico de README. Sinta-se à vontade para personalizar e adicionar mais informações relevantes ao seu projeto, como capturas de tela, descrições detalhadas dos componentes, tecnologias utilizadas, entre outros. Certifique-se de atualizar as seções conforme necessário.
