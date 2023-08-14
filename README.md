@@ -1,4 +1,4 @@
-# # # Portfolio Geral de Programação - Trabalho Final
+# Portfolio Geral de Programação - Trabalho Final
 
 Este é o repositório do trabalho final de portfolio geral de programação, desenvolvido como parte da avaliação do conhecimento geral da sala. O objetivo deste projeto é demonstrar as habilidades e conhecimentos adquiridos ao longo do curso, seguindo as instruções fornecidas pelo professor. **É importante ressaltar que o foco do trabalho não estava na estética visual, mas sim na aplicação prática dos conceitos de programação, incluindo JavaScript e CSS.**
 
